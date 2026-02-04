@@ -2,6 +2,7 @@
 
 A web-based interactive dashboard for PizzaWorld that visualizes delivery and order data across different locations (Boston, Cambridge, Somerville) and order types (Web, Phone). The project uses D3.js for dynamic data visualizations and Bootstrap for responsive layout and styling.
 
+**[Demo](https://supergokou.github.io/PizzaWorld-Company-Data-Chart/)**
 ## Features
 
 - Interactive bar chart to visualize delivery metrics
